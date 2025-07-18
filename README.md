@@ -94,13 +94,4 @@ Predict disease outcomes (Breast Cancer: benign or malignant).
 | Logistic Regression | 97.37% |
 | Random Forest | 95.61% |
 | XGBoost | 95.61% |
-
----
-
-## 🔧 **Setup & Installation**
-
-**Clone the repository:**
-
-```bash
-git clone https://github.com/yourusername/ml-projects-repo.git
-cd ml-projects-repo
+--
