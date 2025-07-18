@@ -1,23 +1,16 @@
 # CodeAlpha_Machine-Learning
 # 🧠 Machine Learning Projects Repository
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)  
-![License](https://img.shields.io/badge/License-MIT-green.svg)  
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 > **A collection of machine learning projects including Credit Scoring, Handwritten Character Recognition, and Disease Prediction.**
 
 ---
 
-## 🚀 Quick Navigation
+## 💡 Project Highlights
 
-- [📊 Credit Scoring Model](#credit-scoring-model-task-1)
-- [✍️ Handwritten Character Recognition](#handwritten-character-recognition-task-3)
-- [🩺 Disease Prediction (Breast Cancer)](#disease-prediction-task-4)
-- [🔧 Setup & Installation](#setup--installation)
-- [📂 Project Structure](#project-structure)
-- [📄 License](#license)
-
+| Area         | Focus                          | Tools / Libraries               |
+|--------------|-------------------------------|---------------------------------|
+| **Finance**   | Credit Scoring & Risk Analysis | RandomForest, SMOTE, sklearn    |
+| **Computer Vision** | Handwritten Character Recognition | CNN, CRNN, TensorFlow    |
+| **Healthcare** | Disease Diagnosis Prediction  | SVM, XGBoost, seaborn            |
 ---
 
 ## 📊 **Credit Scoring Model (Task 1)**
@@ -95,3 +88,8 @@ Predict disease outcomes (Breast Cancer: benign or malignant).
 | Random Forest | 95.61% |
 | XGBoost | 95.61% |
 --
+
+### 👥 Contributors
+Project Lead: Rubaika Akhtar
+
+Intern Team: Code Alpha
